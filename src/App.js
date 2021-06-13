@@ -1,4 +1,6 @@
 import React from "react";
+import ImageSlider from "./components/Gallery/ImageSlider";
+import { SliderData } from "./components/Gallery/SliderData";
 import Navbar from "./components/Navbar/Navbar";
 
 function App() {
@@ -15,6 +17,7 @@ function App() {
         <li>Basic Components</li>
         <li>SASS</li>
       </ul>
+      <ImageSlider slides={SliderData}/>
     </div>
   );
 }
