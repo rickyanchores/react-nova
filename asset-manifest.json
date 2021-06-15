@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-nova/static/css/main.01e54a5c.chunk.css",
-    "main.js": "/react-nova/static/js/main.00e76bf1.chunk.js",
-    "main.js.map": "/react-nova/static/js/main.00e76bf1.chunk.js.map",
+    "main.js": "/react-nova/static/js/main.a730f66a.chunk.js",
+    "main.js.map": "/react-nova/static/js/main.a730f66a.chunk.js.map",
     "runtime-main.js": "/react-nova/static/js/runtime-main.95cf7100.js",
     "runtime-main.js.map": "/react-nova/static/js/runtime-main.95cf7100.js.map",
     "static/js/2.a81be191.chunk.js": "/react-nova/static/js/2.a81be191.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.95cf7100.js",
     "static/js/2.a81be191.chunk.js",
     "static/css/main.01e54a5c.chunk.css",
-    "static/js/main.00e76bf1.chunk.js"
+    "static/js/main.a730f66a.chunk.js"
   ]
 }
