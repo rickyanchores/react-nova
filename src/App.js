@@ -1,4 +1,5 @@
 import React from "react";
+import Banner from "./components/Banner/Banner";
 import ImageSlider from "./components/Gallery/ImageSlider";
 import { SliderData } from "./components/Gallery/SliderData";
 import Home from "./components/Home/Home";
@@ -20,6 +21,7 @@ function App() {
       </ul>
       <ImageSlider slides={SliderData}/>
       <Home />
+      <Banner />
     </div>
   );
 }
