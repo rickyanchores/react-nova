@@ -4,6 +4,7 @@ import ImageSlider from "./components/Gallery/ImageSlider";
 import { SliderData } from "./components/Gallery/SliderData";
 import Home from "./components/Home/Home";
 import Navbar from "./components/Navbar/Navbar";
+import Shop from "./components/Shop/Shop";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
       <ImageSlider slides={SliderData}/>
       <Home />
       <Banner />
+      <Shop />
     </div>
   );
 }
