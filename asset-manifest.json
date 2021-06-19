@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-nova/static/css/main.f16b66c3.chunk.css",
-    "main.js": "/react-nova/static/js/main.e762afae.chunk.js",
-    "main.js.map": "/react-nova/static/js/main.e762afae.chunk.js.map",
+    "main.css": "/react-nova/static/css/main.ec6bc33a.chunk.css",
+    "main.js": "/react-nova/static/js/main.5be01374.chunk.js",
+    "main.js.map": "/react-nova/static/js/main.5be01374.chunk.js.map",
     "runtime-main.js": "/react-nova/static/js/runtime-main.95cf7100.js",
     "runtime-main.js.map": "/react-nova/static/js/runtime-main.95cf7100.js.map",
     "static/js/2.8beb5982.chunk.js": "/react-nova/static/js/2.8beb5982.chunk.js",
     "static/js/2.8beb5982.chunk.js.map": "/react-nova/static/js/2.8beb5982.chunk.js.map",
     "index.html": "/react-nova/index.html",
-    "static/css/main.f16b66c3.chunk.css.map": "/react-nova/static/css/main.f16b66c3.chunk.css.map",
+    "static/css/main.ec6bc33a.chunk.css.map": "/react-nova/static/css/main.ec6bc33a.chunk.css.map",
     "static/js/2.8beb5982.chunk.js.LICENSE.txt": "/react-nova/static/js/2.8beb5982.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.95cf7100.js",
     "static/js/2.8beb5982.chunk.js",
-    "static/css/main.f16b66c3.chunk.css",
-    "static/js/main.e762afae.chunk.js"
+    "static/css/main.ec6bc33a.chunk.css",
+    "static/js/main.5be01374.chunk.js"
   ]
 }
