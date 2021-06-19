@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AAAA,AAAA,OAAO,CAAA;EACH,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,YAAY;EAC7B,WAAW,EAAE,MAAM;EACnB,OAAO,EAAE,GAAG;CACf;;AAED,MAAM,EAAC,SAAS,EAAE,KAAK;EACnB,AAAA,OAAO,CAAA;IACH,cAAc,EAAE,MAAM;GACzB",
     "sources": [
         "Banner.scss"
     ],

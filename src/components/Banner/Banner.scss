@@ -1,0 +1,12 @@
+.Banner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5em;
+}
+
+@media(max-width: 700px){
+    .Banner{
+        flex-direction: column;
+    }
+}

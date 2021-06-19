@@ -9,9 +9,9 @@ import Shop from "./components/Shop/Shop";
 function App() {
   return (
     <div className="App">
-
+      
       <Navbar />
-
+      <Home />
       <h1>React-Nova</h1>
       <p>Personal React Boiler Plate</p>
       <h3>This contains:</h3>
@@ -21,7 +21,7 @@ function App() {
         <li>SASS</li>
       </ul>
       <ImageSlider slides={SliderData}/>
-      <Home />
+      
       <Banner />
       <Shop />
     </div>
