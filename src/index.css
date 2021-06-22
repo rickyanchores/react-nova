@@ -101,6 +101,16 @@
   padding: 1em;
 }
 
+.Contact {
+  background: thistle;
+  padding: 2em;
+  margin: 1em;
+}
+
+.Footer {
+  background: rebeccapurple;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
