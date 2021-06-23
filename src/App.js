@@ -4,6 +4,7 @@ import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import ImageSlider from "./components/Gallery/ImageSlider";
 import { SliderData } from "./components/Gallery/SliderData";
+import Grid from "./components/Grid/Grid";
 import Home from "./components/Home/Home";
 import Navbar from "./components/Navbar/Navbar";
 import Shop from "./components/Shop/Shop";
@@ -26,6 +27,7 @@ function App() {
       <Banner />
       <Shop />
       <Contact />
+      <Grid />
       <ImageSlider slides={SliderData}/>
       <Footer />
     </div>
