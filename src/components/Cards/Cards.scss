@@ -1,0 +1,10 @@
+.Cards{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    .Card{
+        border: 2px solid whitesmoke;
+        margin: 1em;
+        padding: 1em;
+    }
+}
