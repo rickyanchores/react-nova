@@ -117,6 +117,8 @@
 }
 
 .Cards {
+  background: cornflowerblue;
+  padding: 5em;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -127,10 +129,18 @@
           align-items: center;
 }
 
-.Cards .Card {
+.Cards .card {
   border: 2px solid whitesmoke;
-  margin: 1em;
-  padding: 1em;
+  width: 300px;
+  height: 250px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 body {

@@ -3,23 +3,18 @@ import React from 'react'
 const Cards = () => {
     return (
         <div className="Cards">
-            <div className="Card">
-                <h3>Card</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facere, ea praesentium incidunt id ab</p>ß
+            <h1>Cards</h1>
+            <div className="card">
+                <h3>card one</h3>
             </div>
-            <div className="Card">
-                <h3>Card</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facere, ea praesentium incidunt id ab</p>ß
+            <div className="card">
+                <h3>card two</h3>
             </div>
-            <div className="Card">
-                <h3>Card</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facere, ea praesentium incidunt id ab</p>ß
+            <div className="card">
+                <h3>card three</h3>
             </div>
         </div>
-    );
-};
+    )
+}
 
 export default Cards;
-
-
-

@@ -1,10 +1,17 @@
 .Cards{
+    background: cornflowerblue;
+    padding: 5em;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    .Card{
+    .card{
         border: 2px solid whitesmoke;
-        margin: 1em;
-        padding: 1em;
+        width: 300px;
+        height: 250px;
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
     }
 }
