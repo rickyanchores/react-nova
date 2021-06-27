@@ -30,6 +30,7 @@ function App() {
       <ImageSlider slides={SliderData}/>
       <Banner />
       <Shop />
+      <Cards />
       <Contact />
       <Grid />
       <ImageSlider slides={SliderData}/>
