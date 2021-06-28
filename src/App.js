@@ -35,6 +35,7 @@ function App() {
       <Grid />
       <ImageSlider slides={SliderData}/>
       <Cards />
+      <Banner />
       <Footer />
     </div>
   );
